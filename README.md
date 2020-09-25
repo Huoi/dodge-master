@@ -1,4 +1,4 @@
-# dodge-master
+# Dodge Master
 
 A game made with Pygame module and the Python programming language.
 
